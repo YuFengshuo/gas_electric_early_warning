@@ -1,0 +1,12 @@
+Source: IEA Electricity Information 2022 https://www.iea.org/data-and-statistics/data-product/electricity-information,,,,,,,,,,,,,
+Documentation: https://iea.blob.core.windows.net/assets/11289187-9898-42b2-a90f-25e1ab6ee7b5/Ele_documentation.pdf,,,,,,,,,,,,,
+This data is subject to the IEA's terms and conditions: https://www.iea.org/terms,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,Coal,Oil,Natural gas,Biofuels,Nuclear,Hydro,Geothermal,Wind,Solar PV,Other sources,Waste,Units,
+1990,16090,67443,43645,7496,9518,363003,805,,,,,GWh,
+1995,19155,76076,59589,9685,9585,463980,1221,8,,,,GWh,
+2000,24947,103384,97082,11703,12223,551257,2098,240,8,372,,GWh,
+2005,29663,115623,131498,19309,16728,620961,2636,577,13,805,,GWh,
+2010,42347,144174,178092,42669,21694,694423,3274,3459,57,495,,GWh,1130684
+2015,75266,156857,268612,66817,21773,667531,3857,31389,2492,390,32,GWh,1295016
+2020,60757,72953,229301,78629,24760,692578,4862,85066,25454,268,2269,GWh,1276897
